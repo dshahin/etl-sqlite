@@ -1,0 +1,8 @@
+FirstName,LastName,Email,Phone,shahin__key__c,Account.shahin__external__c
+Steve,Rogers,cap@us.gov,"616 867-5309",cap@us.gov,AVG000
+Donald,Blake,thor@asgard.com,"616 867-5310",thor@asgard.com,AVG000
+Tony,Stark,im@stark.com,"616 867-5311",im@stark.com,AVG000
+Jon,Jonzz,mm@mars.com,"520 867-5312",mm@mars.com,JLA001
+Bruce,Wayne,mb@wayne.com,"520 867-5313",mb@wayne.com,JLA001
+Diana,Prince,ww@dc.com,"520 867-5314",ww@dc.com,JLA001
+Lex,Luthor,lex@lexcorp.com,"520 867-5315",lex@lexcorp.com,LOD002
